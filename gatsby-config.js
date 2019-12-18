@@ -17,7 +17,7 @@ const siteMetadata = {
   contact: [
     { name: `GitHub`, link: `https://github.com/VaraKatare` },
     { name: `Dev.to`, link: `https://dev.to/varakatare` },
-    { name: `Twitter`, link: `https://ss10.dev/twitter` },
+    { name: `Twitter`, link: `https://twitter.com/ar1sf_r` },
     {
       name: `LinkedIn`,
       link: `https://www.linkedin.com/in/aris-fathur-rahman-516695112/`,
