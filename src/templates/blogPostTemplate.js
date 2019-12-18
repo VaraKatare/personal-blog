@@ -8,7 +8,7 @@ import Layout from '../components/Layout';
 import { HappyButton } from '../components/Shared';
 import { useSiteMetadata } from '../hooks/siteMetadata';
 
-const repo = 'spences10/blog.scottspence.me';
+const repo = 'VaraKatare/personal-blog';
 
 // Title
 // Date

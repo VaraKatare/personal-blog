@@ -8,7 +8,7 @@
     "clean": "rm -rf .cache/ && rm -rf public/",
     "build": "gatsby build",
     "dev": "gatsby develop -p 8899",
-    "serve": "gatsby serve --verbose",
+    "serve": "gatsby serve -p 9000",
     "buildAndServe": "npm run build && npm run serve",
     "format": "pretty-quick",
     "release": "release-it"
