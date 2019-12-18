@@ -1,4 +1,4 @@
-# [blog.scottspence.me]
+# [Diary Develop[er]]
 
 [![Renovate enabled](https://img.shields.io/badge/renovate-enabled-brightgreen.svg)](https://renovatebot.com/)
 [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
@@ -8,7 +8,7 @@
 
 My personal blog for adding information on my dev journey
 
-The blog is built with Gatsby v2 using styled-components for CSS-in-JS
+The blog is built with Gatsby using styled-components for CSS-in-JS
 and hosted on Netlify
 
 <a href="https://www.netlify.com">
