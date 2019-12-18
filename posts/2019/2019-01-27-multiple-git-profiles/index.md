@@ -11,7 +11,7 @@ tags:
     'bash on windows',
     'git',
   ]
-published: true
+published: false
 cover: ./cover.jpg
 coverCredit: Photo by Evelyn on Unsplash
 ---

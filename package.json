@@ -1,9 +1,9 @@
 {
-  "name": "blog.scottspence.me",
-  "version": "4.0.374",
-  "author": "Scott Spence <spences10apps@gmail.com>(https://scottspence.me/)",
+  "name": "diarydeveloper.netlify.com",
+  "version": "1.0.0",
+  "author": "Aris Fathur Rahman",
   "license": "MIT",
-  "description": "Personal blog made with Gatsby v2",
+  "description": "Diary Developer",
   "scripts": {
     "clean": "rm -rf .cache/ && rm -rf public/",
     "build": "gatsby build",
