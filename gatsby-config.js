@@ -20,7 +20,7 @@ const siteMetadata = {
     { name: `Twitter`, link: `https://twitter.com/ar1sf_r` },
     {
       name: `LinkedIn`,
-      link: `https://www.linkedin.com/in/aris-fathur-rahman-516695112/`,
+      link: `https://www.linkedin.com/in/arisfathurrahman/`,
     },
     { name: `Email`, link: `mailto:fathur.fathur7@gmail.com` },
   ],
